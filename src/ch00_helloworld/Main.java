@@ -1,3 +1,4 @@
+package ch00_helloworld;
 
 public class Main {
 
