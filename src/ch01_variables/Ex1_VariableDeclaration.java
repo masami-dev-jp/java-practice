@@ -4,20 +4,18 @@
   - 1文字目は英字(a-z,A-Z)かアンダーバー(_)、ドル記号($)を使うことができる
   - 2文字目以降は数字も可
   - Public,static,void　などのJava側で用意されているキーワードは使えない
- */
-
-/* 変数の使い方
- 1.宣言する → 変数を作成する  例)int age; , String name; ※変数はageやnameを指す
+  
+  
+ 変数の使い方
+ 　1.宣言する → 変数を作成する  例)int age; , String name; ※変数はageやnameを指す
  
- 2.代入する → 変数に値を入れる  例)age = 25; , name = "masami";
+ 　2.代入する → 変数に値を入れる  例)age = 25; , name = "masami";
  
- 3.参照する → 値を見る  例)System.out.println(変数名); で変数に代入した値をコンソールに出力することができる
+ 　3.参照する → 値を見る  例)System.out.println(変数名); で変数に代入した値をコンソールに出力することができる
  
  
  変数の宣言と代入を同時に行うことを "変数の初期化" という
- 例)
- int age = 25; 
- String name = "masami";
+ 　例)int age = 25; 　　String name = "masami";
  
  */
 	
